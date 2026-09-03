@@ -1,0 +1,2 @@
+clone - downloads the project from online to local (your device) - git clone (url)
+git add (file name) / git add . (to add all files)
