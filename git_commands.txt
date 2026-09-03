@@ -1,3 +1,11 @@
+# To upload files in internet
 clone - downloads the project from online to local (your device) - git clone (url)
 git add (file name) / git add . (to add all files)
-miraj
+git commit -m "your message"
+git push origin (your branch name)
+
+# To get file from internet
+# to get the latest code froom internet (remote) to local
+git pull orgin main
+
+

@@ -1,0 +1,12 @@
+1) create virtual environment 
+ python -m venv (givename) 
+
+ 2) go to the scripts inside venv folder
+
+ 3) right click on the Activate.ps1
+
+ 4) do copy relative path 
+
+ 5) paste that in the terminal 
+
+ 
